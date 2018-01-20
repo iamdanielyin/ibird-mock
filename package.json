@@ -1,0 +1,29 @@
+{
+  "name": "ibird-mock",
+  "version": "1.0.0",
+  "description": "Mock addon for ibird.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yinfxs/ibird-mock.git"
+  },
+  "keywords": [
+    "ibird",
+    "node",
+    "koa",
+    "web",
+    "app",
+    "http",
+    "application",
+    "ibird-addon"
+  ],
+  "author": "yinfxs",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/yinfxs/ibird-mock/issues"
+  },
+  "homepage": "https://github.com/yinfxs/ibird-mock#readme",
+  "dependencies": {
+    "chance": "^1.0.13"
+  }
+}
